@@ -6,6 +6,7 @@ body {
 
 h1, h2, h3, h4, .logo-font{
     font-family: "Sunflower", sans-serif;
+    font-weight: 700;
 }
 
 /* 네비게이션 영역 */
